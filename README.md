@@ -1,1 +1,11 @@
-# Translate-Akkadian-to-English-
+## 目的
+- Kaggle Deep Past Challengeでのメダル獲得
+- 実務で再現可能なDeep Learningパイプラインの構築
+
+## アプローチ概要
+- ベースラインとして〇〇モデルを採用
+- 前処理 → 学習 → 評価 → 推論を一貫したコードで管理
+- 再現性を最優先
+
+## 学び・仮説
+（ここは後で埋める）
