@@ -1,6 +1,6 @@
 ## 目的
 - Kaggle Deep Past Challengeでのメダル獲得
-- 実務で再現可能なDeep Learningパイプラインの構築
+- 再現可能なDeep Learningパイプラインの構築
 
 ## アプローチ概要
 - ベースラインとして〇〇モデルを採用
