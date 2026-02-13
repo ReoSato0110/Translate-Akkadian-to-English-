@@ -33,6 +33,11 @@ x
 ...  
 xx  
 
+```python
+def train():
+pass
+```
+
 ---
 - ベースライン構築
 - byT5-baseで通し。
