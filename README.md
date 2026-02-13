@@ -28,15 +28,12 @@
 <big_gap>
 に統一する
 
-欠損文字  
+```markdown欠損文字  
 x  
 ...  
 xx  
-
-```python
-def train():
-pass
 ```
+
 
 ---
 - ベースライン構築
