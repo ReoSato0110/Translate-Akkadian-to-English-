@@ -52,5 +52,6 @@ xx
 ---
 
 ### 更新履歴
+-　2/24:byt5モデルのtokenizerがkaggle環境のtransformerが古いため認識されない。再学習が必要？（4回目）
 - 2/22：submission.csv ＝　score 3.4でlossが1.6-2.1。　学習データが足りない可能性が高い。
 - 2/22：文単位にtrainを分割実装＋Group K foldで実装。（fp16を導入しようとして失敗。lossがNaNになってしまう）
